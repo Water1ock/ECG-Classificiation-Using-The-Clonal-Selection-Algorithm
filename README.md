@@ -1,4 +1,4 @@
-# ECG Classificiation Using the Clonal Selection Algorithm
+# ECG Classification Using the Clonal Selection Algorithm
 This project demonstrates the use of the Clonal Selection Algorithm (CSA), a bio-inspired artificial immune system approach, for classifying Electrocardiogram (ECG) signals. The model was trained on the
 PTB Diagnostic ECG Database to classify ECG signals as either normal or abnormal (arrhythmic). The best accuracy achieved was 74.8%, making CSA a promising yet underexplored method for ECG
 classification.
